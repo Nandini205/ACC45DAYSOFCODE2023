@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main () {
+int X;
+printf("Enter the number of X");
+scanf("%d",&X);
+int Y;
+printf(" Enter the bumber of Y");
+scanf("%d",&y);
+int Division=X/Y;
+printf(" maximum number of chocolate %d", Division);
+return 0:
+}
