@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    int t;
+    scanf>>t;
+    while(t>0){
+        int n,x;
+        if(n==x ||x==0){
+            printf<<0<<endl;
+        }
+        else if(n-x>x){
+            printf<<x<<endl;
+        }else{
+            printf<<n<<endl;
+        }
+        t--;
+    }
+
+    return 0;
+}
