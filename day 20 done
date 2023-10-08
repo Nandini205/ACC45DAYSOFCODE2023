@@ -1,0 +1,8 @@
+#include <stdio.h>
+int x,y,z,account;
+printf("Enter three digist");
+scanf("%d %d %d",&x,&y,&z);
+ account=x+y*z;
+printf("%d",account);
+    return 0;
+}
