@@ -1,0 +1,14 @@
+  int p;
+   printf("Time penalty curred by participant");
+   scanf("%d",&p);
+    int q;
+   printf("Time penalty incurred by participant");
+   scanf("%d",&q);
+   if(10<12){
+       printf("batter rank");
+   }
+   else {
+       printf("Not batter rank");
+   }
+    return 0;
+}
